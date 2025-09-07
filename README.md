@@ -4,6 +4,8 @@ Capstone for IBM Granite
 **Oleh: Mukhammad Dafid Noor Fauzi Rochmad - Ekonomi Pembangunan - Universitas Airlangga**
 *Proyek Capstone - IBM SkillsBuild Student Development Initiative*
 
+- - -
+
 ## Project Overview
 
 Basic education is a natural right that must be realized for every human being The world is developing  with modernity leading to an increasing need for knowledge and a role in   problem solving. 
@@ -14,10 +16,14 @@ This encouragement is the base for every human being to think and work. Human de
 1. **Understanding developments in education over the last 2nd centuries
 2. **Providing strategic advice for educational development
 
+- - -
+
 ## Process Analyze & Strategics AI usage
 
-**Visualized data findings showing developments in education
-**The role of IBM Granite in assisting educational policy recommendations based on data analysis results
+1. **Visualized data findings showing developments in education
+2. **The role of IBM Granite in assisting educational policy recommendations based on data analysis results
+
+- - -
 
 ## Result and Intrest
 
@@ -33,6 +39,8 @@ This encouragement is the base for every human being to think and work. Human de
 
 3. **Providing strategic advice for educational development
 
+- - -
+
 >### Exclusive Memo
 > **To:**  Government and Private
 > **From:** Mukhammad Dafid Noor F R, Analis Data Strategis  
@@ -40,6 +48,8 @@ This encouragement is the base for every human being to think and work. Human de
 >
 >1. Advanced mankind and world development shifted to the 3 Great Continents. 
 >2. Education will be spread throughout the world.
+
+- - -
 
 ## Conclusions & Strategic Resources
 
