@@ -64,7 +64,7 @@ Formal education has increasingly reached more people throughout the years from
 
 
 
-## Detail Teknis Proyek
+## Project Detail Technical
 - **Dataset:** [Global Education Statistics on Kaggle](https://www.kaggle.com/datasets/joebeachcapital/global-education-statistics-all-indicators)
 - **Tools & Library:** Python, Google Colab, Pandas, Matplotlib, Seaborn, LangChain, Replicate
 - **Model AI:** `ibm-granite/granite-3.3-8b-instruct` via Replicate API
